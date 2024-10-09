@@ -23,8 +23,8 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/Avinash1407/ITT-Course-Resgistration-Portal.git
-   cd ITT-Course-Resgistration-Portal
+   git clone https://github.com/Avinash1407/ITT-Course-Registration-Portal.git
+   cd ITT-Course-Registration-Portal
 2. **Run the application**
    ```bash
    python app.py
