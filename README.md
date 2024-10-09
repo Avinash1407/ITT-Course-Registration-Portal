@@ -1,2 +1,0 @@
-# ITT Course Resgistration Portal
- 
